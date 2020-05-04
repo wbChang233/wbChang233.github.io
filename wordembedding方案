@@ -1,0 +1,17 @@
+word embedding: randomly initialized, GN word embedding, domain-specific word embeddings, SO word embeddings
+
+Sentiment analysis:
+Exploring Word Embedding Techniques to Improve Sentiment Analysis of Software Engineering Texts
+跑LSTM，但是为了验证结果是不是robust，可以再跑一次CNN，CNN可以借鉴Leveraging Large Amounts of Weakly Supervised Data for Multi-Language Sentiment Classification中的简单模型
+
+detection of self-admitted technical debt.
+Neural Network-based Detection of Self-Admitted Technical Debt: From Performance to Explainability
+a unified dataset
+cross-project
+
+relatedness detection
+Easy over Hard: A Case Study on Deep Learning
+SVM和CNN
+
+bug report detection
+DWEN: Deep Word Embedding Network for Duplicate Bug Report Detection in Software Repositories
